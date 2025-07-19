@@ -14,6 +14,9 @@ All Week 3 exercises and solutions have also been pushed.
 ✅ Week 4
 All Week 4 exercises and solutions have also been pushed.
 
+✅ Week 5
+All Week 5 exercises and solutions have also been pushed.
+
 Additional weeks will be added progressively as the program continues.
 
 🔧 Prerequisites
